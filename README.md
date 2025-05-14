@@ -1,10 +1,3 @@
-Ótimo ponto! Um projeto como o seu precisa de um `README.md` bem feito no GitHub — é a primeira coisa que as pessoas veem e o que motiva (ou não) alguém a testar ou contribuir com o projeto.
-
-Aqui está um modelo profissional de `README.md` para o seu projeto **SmartHome com Raspberry Pi Pico W**:
-
----
-
-````markdown
 # 🔌 SmartHome com Raspberry Pi Pico W
 
 Projeto de automação residencial utilizando o **Raspberry Pi Pico W** com MicroPython. A ideia é controlar dispositivos como **LEDs RGB** e **buzzers** através de uma **interface web** simples e responsiva, diretamente pelo navegador.
