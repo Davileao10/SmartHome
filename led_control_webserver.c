@@ -13,8 +13,8 @@
 #include "lwip/netif.h"
 
 // Credenciais Wi-Fi
-#define WIFI_SSID "ABRAAO-10-2G"
-#define WIFI_PASSWORD "rosana5478"
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "senha"
 
 // Pinos
 #define LED_PIN CYW43_WL_GPIO_LED_PIN
