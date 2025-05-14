@@ -1,7 +1,3 @@
-/**
- * AULA IoT - Embarcatech - Ricardo Prates - 004 - Webserver Raspberry Pi Pico W - wlan
- * Modificado para smarthome com luz digital (pseudo-PWM), buzzers com PWM, brilho e volume ajustados
- */
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
