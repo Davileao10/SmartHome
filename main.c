@@ -9,8 +9,8 @@
 #include "lwip/netif.h"
 
 // Credenciais Wi-Fi
-#define WIFI_SSID "ABRAAO-10-2G"
-#define WIFI_PASSWORD "rosana5478"
+#define WIFI_SSID "SSID" // ATUALIZADO POIS ESTAVA SSID E SENHA DA MINHA REDE
+#define WIFI_PASSWORD "SENHA"
 
 // Pinos
 #define LED_PIN CYW43_WL_GPIO_LED_PIN
